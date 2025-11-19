@@ -29,7 +29,7 @@ Everything is preconfigured, **so no path editing is required.**
 If you use this repository, please cite:
 
 xxx, x., & xxx, x. (2025). 
-Evaluating YOLOv8-Pose Variants for Accurate Soccer Field Keypoint Detection and Homography Mapping.
+Soccer Player Tracking and Team Classification from Broadcast Highlights: A Low-Cost Analytical Pipeline.
 
 # 🤝 Contributions
 Contributions, pull requests, and discussions are welcome!
