@@ -25,6 +25,14 @@ The entire workflow is designed to be run inside Google Colab, and each notebook
 
 Everything is preconfigured, **so no path editing is required.**
 
+# 📜 Citation
+If you use this repository, please cite:
 
+xxx, x., & xxx, x. (2025). 
+Evaluating YOLOv8-Pose Variants for Accurate Soccer Field Keypoint Detection and Homography Mapping.
+
+# 🤝 Contributions
+Contributions, pull requests, and discussions are welcome!
+Feel free to open issues for bugs, suggestions, or improvements.
 
 
