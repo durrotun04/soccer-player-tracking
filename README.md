@@ -14,4 +14,7 @@ The entire workflow is designed to be run inside Google Colab, and each notebook
 - 🎨 Team Classification: KMeans clustering on HSV jersey colors + temporal majority correction
 - ⚽ Analytics Output: Movement patterns, team visibility, coarse movement pattern, average on-screen position
 
+# 🚀 How to Run (Google Collab)
+- 
+
 
