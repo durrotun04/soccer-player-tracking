@@ -8,7 +8,7 @@ This project provides a lightweight, low-cost pipeline for soccer player trackin
 The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section (**no manual setup or pip install -r requirements.txt is required**).
 
 # 🔍 Key Features
-1. 🎥 Input: Broadcast highlight video
+1. 🎥 Input: Broadcast highlight video (source: https://www.youtube.com/watch?v=ffAYByv2pLc)
 2. 🧩 Player Detection: YOLOv8
 3. 🔗 Player Tracking: ByteTrack
 4. 🎨 Team Classification: KMeans clustering on HSV jersey colors + temporal majority correction
