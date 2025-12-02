@@ -7,6 +7,11 @@ This project provides a lightweight, low-cost pipeline for soccer player trackin
 
 The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section (**no manual setup or pip install -r requirements.txt is required**).
 
+# 🎥 Demo Video (YouTube Output)
+Klik untuk menonton hasil tracking dan klasifikasi tim:
+[![YouTube Demo](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=5i48wgPQ_34)
+
+
 # 🔍 Key Features
 1. 🎥 Input: Broadcast highlight video (source: https://www.youtube.com/watch?v=ffAYByv2pLc)
 2. 🧩 Player Detection: YOLOv8
