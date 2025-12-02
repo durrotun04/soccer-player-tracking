@@ -8,8 +8,8 @@ This project provides a lightweight, low-cost pipeline for soccer player trackin
 The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section (**no manual setup or pip install -r requirements.txt is required**).
 
 # 🎥 Demo Video (YouTube Output)
-Klik untuk menonton hasil tracking dan klasifikasi tim:
-<iframe src="https://www.youtube.com/watch?v=5i48wgPQ_34"></iframe>
+[![Watch the video](https://img.youtube.com/vi/XXXXXXXXXX/maxresdefault.jpg)](https://www.youtube.com/watch?v=5i48wgPQ_34)
+
 
 
 # 🔍 Key Features
