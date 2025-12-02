@@ -9,7 +9,7 @@ The entire workflow is designed to be run inside Google Colab, and each notebook
 
 # 🎥 Demo Video (YouTube Output)
 Klik untuk menonton hasil tracking dan klasifikasi tim:
-[![YouTube Demo](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=5i48wgPQ_34)
+<iframe src="https://www.youtube.com/watch?v=5i48wgPQ_34"></iframe>
 
 
 # 🔍 Key Features
