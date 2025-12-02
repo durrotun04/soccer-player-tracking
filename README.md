@@ -8,7 +8,7 @@ This project provides a lightweight, low-cost pipeline for soccer player trackin
 The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section (**no manual setup or pip install -r requirements.txt is required**).
 
 # 🎥 Demo Video (YouTube Output)
-🔗 Full demo video on YouTube: https://www.youtube.com/watch?v=5i48wgPQ_34
+Full demo video on YouTube: https://www.youtube.com/watch?v=5i48wgPQ_34
 
 # 🔍 Key Features
 1. 🎥 Input: Broadcast highlight video (source: https://www.youtube.com/watch?v=ffAYByv2pLc)
