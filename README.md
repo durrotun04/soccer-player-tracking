@@ -18,7 +18,7 @@ Full demo video on YouTube: https://www.youtube.com/watch?v=5i48wgPQ_34
 5. ⚽ Analytics Output: Movement patterns, team visibility, coarse movement pattern, average on-screen position
 
 # 🚀 How to Run (Google Collab)
-1. Clone the repository (https://github.com/durrotun04/soccer-player-tracking.git)
+1. Clone this repository (https://github.com/durrotun04/soccer-player-tracking.git)
 2. Upload the project folder (soccer-player-tracking) into: My Drive/Colab Notebooks/
 3. Make sure your structure looks like this:
   
